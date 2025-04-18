@@ -1,0 +1,66 @@
+Machine Learning WorkFlow tells us that how a machine learning model is 
+going to be designed and how it is going to work with the real life data
+
+the main aim is to produce the repeatable patterns in which it systmatically tranforms 
+and processes the information to create prediction based solutions
+
+the workflow goes with the following phases 
+1)Asking the right Question-
+    this phase basically defines the problem statement of what goal has to be achieved
+    in simple words what are we suppose to do with it 
+
+    this phase gives the requirements for the model consisting of 
+    -->goals we want to achieve 
+    -->the data we need 
+    -->the process we can perform 
+
+2)Preparing data-
+    In this phase the raw data is collected and it is converted into the data which is required
+    in simple words the cleaning up of the  data is done 
+
+    what is done during the cleaning of the data
+    -->removing of tha unwanted attributed
+    -->removing of the usless record(records with no details)
+    -->removing of the duplicate data 
+
+3)Finding of the requirements in which the model is going to be trained-
+    After the preperation of the data, the requirements are fetched from it which will be used for
+    training the machine learning model.
+
+4)Selecting the algorithm-
+    This is a complex task.This phase is the selecting phase in based on the requirements for 
+    training the model the algorithms are filtered according to it as there are many machine 
+    learning algorithms 
+
+    criteria on which the algorithms are selected
+    -->what type of data is given (labelled or unlabelled)
+    -->what is the size of the data  
+    -->dimensionality of the data 
+    -->Relationship between the data attributes
+    -->interpretablity of the data
+    -->which alogrithm is efficient in terms of computation time 
+
+
+5)Training of the data-
+    after the selection of the algorithm the Training of the model is done in which the 
+    model learns the given output of the perticular data and stores its knowledge
+
+6)Testing of the data-
+    After the training phase of the model , a new data set is given and based on the knowledge 
+    the model has gained during the training phase it predicts the outcome. 
+
+    the following observation checked during this phase
+    -->the accurateness of the prediction by the mode
+    -->the adaptablity of the model 
+    -->the dynamicness of the model 
+
+7)Refinement of the model-
+    this phse is called the backflow.This phase is invoked whenever the 
+    model suffers the abnormalities in simple words the model is from suffering 
+    hinderence as per the requirement which make the model to predict the inaccurate solutions
+
+    Processes which are done for refinement of the model
+    -->giving more training data to the model 
+    -->change of the algorithm if required
+    -->changing of the parameters 
+    -->combinations of the above three processes
