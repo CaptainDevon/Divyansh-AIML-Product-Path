@@ -1,2 +1,2 @@
 myNumber=7
-print(myNumber);
+print(myNumber)
