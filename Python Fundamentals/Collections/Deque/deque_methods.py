@@ -1,0 +1,16 @@
+from collections import deque
+
+dq=deque([1])
+print(dq)
+dq.append(2)
+print(dq)
+dq.pop()
+print(dq)
+dq.appendleft(5)
+print(dq)
+dq.popleft()
+print(dq)
+dq.extend([4,6])
+print(dq)
+dq.extendleft([-1,-2])
+print(dq)
