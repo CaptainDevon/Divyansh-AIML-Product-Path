@@ -1,0 +1,6 @@
+Product list:
+p1:ADCB-EFGH
+p2:123-456
+p3:JKLS-PWOU
+p4:892-908
+p5:123-989

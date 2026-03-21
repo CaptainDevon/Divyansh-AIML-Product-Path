@@ -1,0 +1,7 @@
+Divyansh Sinha
+
+Phone: 123-456-7890
+Email: temp.mail@example.com
+Address: 123 Main St,Anytown,USA,54321
+order Number: AB-1234-5678
+Favourite Color: #FF5733
